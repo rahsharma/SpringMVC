@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringMvcApplication {
 //added comment to branch
+//comment on master2
 //added comment on master
 //added another comment to testbranch
 	public static void main(String[] args) {
